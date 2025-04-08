@@ -1,0 +1,1 @@
+# GEMINY_KEY_API
